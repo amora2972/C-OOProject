@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\For_Backup\\UniversitySubjects\\university_docs\\thirdYear\\First_Semester\\C#\\Console_Oop_Project\\Console_Oop_Project\\Console_Oop_Project.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
